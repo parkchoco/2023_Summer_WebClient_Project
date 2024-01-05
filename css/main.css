@@ -1,0 +1,99 @@
+body {
+    overflow: hidden;
+}
+
+h3 {
+    color: #000000;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.menu * {
+    display: inline;
+}
+
+.menu li {
+    margin: 35px;
+}
+
+.menu li a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.menu ul {
+    padding-left: 0px;
+}
+
+.menu {
+    font-size: 20px;
+    font-weight: bolder;
+    align-items: center;
+    text-align: center;
+    padding-top: 50px;
+    position: relative;
+    top: 50px;
+    left: 0;
+    right: 0;
+}
+
+.submenu * {
+    display: inline;
+}
+
+.submenu li {
+    margin: 10px;
+}
+
+.submenu li a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+
+.submenu {
+    font-size: 5px;
+    text-align: right;
+    position: fixed;
+    top: 20px;
+    left: 0;
+    right: 50px;
+}
+
+.sub {
+    font-size: 30px;
+    text-shadow: 6px 10px 20px #ab1616a5;
+}
+
+.main {
+    background-size: cover;
+    text-align: center;
+    padding-top: 120px;
+    padding-bottom: 100px;
+}
+
+.whatIsSoccer {
+    background-size: cover;
+    text-align: center;
+}
+
+.rule {
+    float: center;
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+.intext {
+    float: right;
+    margin-top: 35px;
+    padding-left: 50px;
+}
+
+.grade {
+    float: center;
+    font-weight: bolder;
+    font-size: 50px;
+}
